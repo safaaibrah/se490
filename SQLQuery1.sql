@@ -1,3 +1,3 @@
 INSERT INTO Department(Name,CollgID,Code)
-VALUES ('Computer Network',1,'CN');
+VALUES ('software enginerring',1,'se');
 SELECT * FROM Department
